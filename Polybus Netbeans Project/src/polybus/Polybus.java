@@ -1,7 +1,6 @@
 /*
 -Rezhwan Sidiq Mahmod
 -21/Nov/2017
--MidtermExam Studys (-_-
 -19:10
 */
 package polybus;
